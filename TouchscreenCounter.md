@@ -1,5 +1,5 @@
 layout: page
-titie: "Touchscreen Counter"
+title: "Touchscreen Counter"
 permalink: /TouchscreenCounter
 
-# Touchscreen Counter
+# This is a test
